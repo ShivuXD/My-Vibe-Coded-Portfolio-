@@ -11,7 +11,7 @@ This repository represents my A.I built portfolio website that I prompted on -->
 
 My project is live at:
 
-**[https://vercel.com/shivamkv3patialapunjab-8933s-projects/v0-modern-portfolio-website](https://vercel.com/shivamkv3patialapunjab-8933s-projects/v0-modern-portfolio-website)**
+**[Here](https://vercel.com/shivamkv3patialapunjab-8933s-projects/v0-modern-portfolio-website)**
 
 
 ## How It Works
